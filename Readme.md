@@ -1,4 +1,4 @@
-Credential for admin panel :
-admin/index.php
-Username: admin
+Credential for admin panel : <br>
+admin/index.php <br>
+Username: admin <br>
 Password: Test@123
